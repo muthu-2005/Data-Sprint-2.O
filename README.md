@@ -1,5 +1,5 @@
 # Data-Sprint-2.O
-  ## Wi-Fi
+  ## Wi-Fi Zone
 
   #### Network: Will be shared soon...
   #### Password: Will be shared soon...
